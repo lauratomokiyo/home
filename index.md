@@ -1,4 +1,5 @@
-## Laura Mayfield Tomokiyo
+## Laura Mayfield Tomokiyo 
+Mali | ![GitHub Logo](./mali.png)
 
 ### Research Interests
 #### Computer Science Curriculum
